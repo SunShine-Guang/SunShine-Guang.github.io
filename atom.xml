@@ -5,9 +5,9 @@
   <subtitle>学习记录</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://sunshine-guang.github.io/"/>
+  <link href="http://ygsalr.work/"/>
   <updated>2020-06-01T03:53:57.715Z</updated>
-  <id>https://sunshine-guang.github.io/</id>
+  <id>http://ygsalr.work/</id>
   
   <author>
     <name>SunShine</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>恭喜二胖考上研究生</title>
-    <link href="https://sunshine-guang.github.io/2020/06/01/tong-xue/"/>
-    <id>https://sunshine-guang.github.io/2020/06/01/tong-xue/</id>
+    <link href="http://ygsalr.work/2020/06/01/tong-xue/"/>
+    <id>http://ygsalr.work/2020/06/01/tong-xue/</id>
     <published>2020-06-01T03:26:36.000Z</published>
     <updated>2020-06-01T03:53:57.715Z</updated>
     
@@ -37,21 +37,21 @@
     </summary>
     
     
-      <category term="生活" scheme="https://SunShine-Guang.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
+      <category term="生活" scheme="http://ygsalr.work/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
-      <category term="基友" scheme="https://SunShine-Guang.github.io/tags/%E5%9F%BA%E5%8F%8B/"/>
+      <category term="基友" scheme="http://ygsalr.work/tags/%E5%9F%BA%E5%8F%8B/"/>
     
-      <category term="考研" scheme="https://SunShine-Guang.github.io/tags/%E8%80%83%E7%A0%94/"/>
+      <category term="考研" scheme="http://ygsalr.work/tags/%E8%80%83%E7%A0%94/"/>
     
-      <category term="刘鹏" scheme="https://SunShine-Guang.github.io/tags/%E5%88%98%E9%B9%8F/"/>
+      <category term="刘鹏" scheme="http://ygsalr.work/tags/%E5%88%98%E9%B9%8F/"/>
     
   </entry>
   
   <entry>
     <title>test</title>
-    <link href="https://sunshine-guang.github.io/2020/05/30/test/"/>
-    <id>https://sunshine-guang.github.io/2020/05/30/test/</id>
+    <link href="http://ygsalr.work/2020/05/30/test/"/>
+    <id>http://ygsalr.work/2020/05/30/test/</id>
     <published>2020-05-30T08:56:19.000Z</published>
     <updated>2020-06-01T01:17:16.938Z</updated>
     
@@ -73,8 +73,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://sunshine-guang.github.io/2020/05/29/hello-world/"/>
-    <id>https://sunshine-guang.github.io/2020/05/29/hello-world/</id>
+    <link href="http://ygsalr.work/2020/05/29/hello-world/"/>
+    <id>http://ygsalr.work/2020/05/29/hello-world/</id>
     <published>2020-05-29T06:53:37.521Z</published>
     <updated>2020-05-29T06:53:37.521Z</updated>
     
@@ -96,8 +96,8 @@
   
   <entry>
     <title>博客开源</title>
-    <link href="https://sunshine-guang.github.io/2019/08/27/blog-open-source/"/>
-    <id>https://sunshine-guang.github.io/2019/08/27/blog-open-source/</id>
+    <link href="http://ygsalr.work/2019/08/27/blog-open-source/"/>
+    <id>http://ygsalr.work/2019/08/27/blog-open-source/</id>
     <published>2019-08-27T03:41:03.000Z</published>
     <updated>2020-06-01T01:10:15.134Z</updated>
     
@@ -114,14 +114,14 @@
     </summary>
     
     
-      <category term="软件安装与配置" scheme="https://SunShine-Guang.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/"/>
+      <category term="软件安装与配置" scheme="http://ygsalr.work/categories/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/"/>
     
     
-      <category term="Hexo" scheme="https://SunShine-Guang.github.io/tags/Hexo/"/>
+      <category term="Hexo" scheme="http://ygsalr.work/tags/Hexo/"/>
     
-      <category term="Github" scheme="https://SunShine-Guang.github.io/tags/Github/"/>
+      <category term="Github" scheme="http://ygsalr.work/tags/Github/"/>
     
-      <category term="博客" scheme="https://SunShine-Guang.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+      <category term="博客" scheme="http://ygsalr.work/tags/%E5%8D%9A%E5%AE%A2/"/>
     
   </entry>
   
