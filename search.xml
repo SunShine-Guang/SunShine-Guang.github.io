@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>Mathtype使用及常用快捷键</title>
+      <link href="/2020/06/04/mathtype/"/>
+      <url>/2020/06/04/mathtype/</url>
+      
+        <content type="html"><![CDATA[<h2 id="Mathtype常用快捷键"><a href="#Mathtype常用快捷键" class="headerlink" title="Mathtype常用快捷键"></a>Mathtype常用快捷键</h2><p>最近在帮老师出离散数学的书，里面涉及到一些数学公式，需要使用mathtype，因数学公式太复杂掌握一些快捷键可以加快输入的速度。</p><h3 id="Mathtype打开方式"><a href="#Mathtype打开方式" class="headerlink" title="Mathtype打开方式"></a>Mathtype打开方式</h3><p>我一般在word的插入-对象-下拉框哪里找到，在需要插入公式的地方点击一下就好了。<br><img src="https://img-blog.csdnimg.cn/20200604172712231.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dvc2hpc2h1aTY4ODky,size_16,color_FFFFFF,t_70" alt="打开mathtype"></p><h3 id="Mathtype快捷键"><a href="#Mathtype快捷键" class="headerlink" title="Mathtype快捷键"></a>Mathtype快捷键</h3><p>mathtype有很多快捷键，但最常用有四个，其中最后一个还时灵时不灵的。</p><ol><li>ctrl+l 或者ctrl+L输入公式下标（不需要下标时按一下右前进键就可以了，其他同样），类似于<img src="https://img-blog.csdnimg.cn/20200604173620743.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dvc2hpc2h1aTY4ODky,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"></li><li>ctrl+h或者ctrl+H输入公式上标，类似于<br><img src="https://img-blog.csdnimg.cn/20200604174020403.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dvc2hpc2h1aTY4ODky,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"></li><li>alt+F4 关闭mathtype</li><li>ctrl+N打开mathtype（这个在打开mathtype时，可以打开一个新的mathtype，不过没什么用，不能在mathtype没打开时使用，我用的时候没成功）<br>还有一些快捷键我用的比较少，都是用鼠标点，下面也列出来。<br><img src="https://img-blog.csdnimg.cn/20200604174609110.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dvc2hpc2h1aTY4ODky,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/2020060417470229.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dvc2hpc2h1aTY4ODky,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"><br>二、其它快捷键</li></ol><p>1、放大或缩小尺寸，只是显示，并不改变字号</p><p>【Ctrl+1】——100% 【 Ctrl+2】——200%</p><p>【Ctrl+4】——400% 【 Ctrl+8】——800%</p><p>2、移动公式：</p><p>先选取需要移动的公式（选取办法是用【Shift+箭头键】），再用【Ctrl+箭头键】配合操作即可实现上、下、左、右的平移；</p><p>3、元素间的跳转：</p><p>每一步完成后转向下一步（如输入分子后转向分母的输入等）可用【Tab键】，换行用【Enter键】。</p><p>4、文本加粗：</p><p>先选取需要加粗的文本（选取办法是用【Shift+箭头键】），再用【Ctrl+Shift+B】键可适当增加空格。</p><p>5、输入空格：</p><p>【Ctrl+Alt+空格】或【Ctrl+Shift+空格】可适当增加空格。</p><p>6、微移间隔：</p><p>先选取要移动的公式（选取办法是用【Shift+箭头键】），再用【Ctrl+箭头键】配合操作即可实现上、下、左、右的平移</p><p>7、用键盘选取菜单或工具条：</p><p>按Alt键与箭头键或F10与箭头键可进入菜单；分别按F2、F6、F7、F8、F9键可分别进入工具条的第一至第第五行</p><p>快捷键参考链接: <a href="https://www.mathtype.cn/jiqiao/changyong-kuaijiejian.html" target="_blank" rel="noopener">link</a>.</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> mathtype </tag>
+            
+            <tag> 数学 </tag>
+            
+            <tag> 离散数学 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>恭喜二胖考上研究生</title>
       <link href="/2020/06/01/tong-xue/"/>
       <url>/2020/06/01/tong-xue/</url>
